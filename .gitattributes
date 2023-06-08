@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * linguist-vendored
 Assets/Client/Scripts linguist-vendored=false
-.cs linguist-vendored=false
+**.cs linguist-vendored=false
